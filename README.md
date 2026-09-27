@@ -25,6 +25,11 @@ Contains MongoDB queries demonstrating:
 * Aggregation pipelines
 * `$lookup` operations
 
+### ER Model
+<img src="image/ER-Model.png" alt="ER Model" width="300">
+<!-- ![ER Model](image/ER-Model.png) -->
+
+
 ## Technologies
 
 * **SQL:** MySQL
